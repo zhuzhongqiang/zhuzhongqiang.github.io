@@ -1,19 +1,19 @@
 # Site settings
-title: Hfj Blog
-SEOTitle: 黄方健的博客 | Hfj Blog
+title: Zzq Blog
+SEOTitle: 朱中强的博客 | Zzq Blog
 header-img: img/home-bg.jpg
 email: 357987103@qq.com
-description: "关于编程 | 黄方健，Web | 这里是 @黄方健 的个人博客，与你一起发现更大的世界。"
-keyword: "黄方健, hfangjian, 郭奉孝, @hfj, 黄方健的博客, Hfj Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
-url: "http://hfangjian.cn"              # your host, for absolute URL
+description: "关于编程 | 朱中强，Web | 这里是 @朱中强 的个人博客，与你一起发现更大的世界。"
+keyword: "朱中强, zhuzhongqiang, @zzq, 朱中强的博客, zzq Blog, 博客, 个人网站"
+url: "https://zhuzhongqiang.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     fajar_frank
-github_username:    hfangjian
+weibo_username:     zzq
+github_username:    zzq
 #twitter_username:  hfj
 #facebook_username:  hfj
 # linkedin_username:  firstname-lastname-idxxxx
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hfj
+disqus_username: zzq
 
 # Duoshuo settings
 # duoshuo_username: huangfangjian
@@ -69,8 +69,8 @@ disqus_username: hfj
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "二进制的我"
-sidebar-avatar: /img/mybatis01.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "朱中强的世界"
+sidebar-avatar: /img/zzq.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
